@@ -1,4 +1,4 @@
-# Classification of membranes into Defect/NotDefect along with their visual explanations.
+# Classification of metal diaphragm into Defect/NotDefect along with their visual explanations.
 
 ## To Use:
 
