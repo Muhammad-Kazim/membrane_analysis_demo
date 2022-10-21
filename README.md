@@ -11,7 +11,7 @@
 
 ## System Artchitecture:
 
-![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/images/framework.png)
+![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/images/framewoek.png)
 
 ## Visual Explanations using RISE and GRADCAM:
 
