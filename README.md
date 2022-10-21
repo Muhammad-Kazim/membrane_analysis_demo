@@ -9,8 +9,11 @@
 * RUN streamlit run main.py
 * Use webapp for inference
 
+## System Artchitecture:
 
-## Application Demo:
+![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/images/framework.png)
 
-![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/temp.jpg)
+## Visual Explanations using RISE and GRADCAM:
+
+![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/images/demo.png)
 
