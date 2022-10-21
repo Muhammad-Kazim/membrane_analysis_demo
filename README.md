@@ -12,5 +12,5 @@
 
 ## Application Demo:
 
-![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/temp.png)
+![alt text](https://github.com/Muhammad-Kazim/membrane_analysis_demo/blob/master/temp.jpg)
 
